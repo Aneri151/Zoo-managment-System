@@ -25,7 +25,7 @@ This project is a Zoo Management System that maintains records of animals, staff
 
 For a detailed explanation of the project, architecture, and implementation, refer to the full documentation below:
 
-[Click here to view the detailed project report](./Group16_CSE_100_Zoo%20MGS.pdf)
+[Click here to view the detailed project report](./Group16_CSE_100_Zoo.pdf)
 
 ## Authors
 
